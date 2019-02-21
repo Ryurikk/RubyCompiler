@@ -1,0 +1,13 @@
+main{
+	integer varInteger, varchar;
+	float varfloat;
+	bool data;
+	varInteger := 10*10-1;
+	data := 1;
+	if(data)then{
+		varchar := varInteger+25;
+	}
+	else{
+		varInteger:=10*10;
+	}
+}

@@ -1,0 +1,5 @@
+main {
+	integer x;
+	x := 25%7;
+	write "x vale ",x;
+}
